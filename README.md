@@ -55,8 +55,8 @@ Bước 11
 Commit 
 ```
 
-#### Tác giả
+## Tác giả
 
-##### Giấy phép mã nguồn
+## Giấy phép mã nguồn
 
-###### Lời cảm ơn
+## Lời cảm ơn
